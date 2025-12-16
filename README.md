@@ -12,7 +12,7 @@ This project is a Decentralized Application (DApp) that enables transparent trac
 * **Quality Assurance:** The Retailer can perform quality control upon receiving the delivery.
 * **Ethereum Compatible:** Smart contracts are written in Solidity and interact with standard wallets like Metamask.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Category | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@ This project is a Decentralized Application (DApp) that enables transparent trac
 | **Web3 Connection** | Web3.js / Ethers.js | Interacting with the smart contracts. |
 | **Network (Blockchain)** | EVM-compatible Testnet (Ropsten, Sepolia, etc.) | The network where contracts are deployed. |
 
-## ⚙️ Setup and Running Locally
+##  Setup and Running Locally
 
 Follow these steps to run the project locally.
 
